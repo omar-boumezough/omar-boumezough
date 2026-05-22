@@ -27,7 +27,7 @@ Contact  : omar0boumezough@gmail.com
 - 🛡️ Interested in: **Blue Team, Threat Detection, Incident Response, and Digital Forensics**
 - 📚 Currently learning: **Networking, Linux, Windows Event Logs, Python, and Security Monitoring**
 - 🧪 Practicing on: **TryHackMe, Hack The Box, and CyberDefenders**
-- 👨‍💻 All my projects: [github.com/omar0boumezough](https://github.com/omar0boumezough?tab=repositories)
+- 👨‍💻 All my projects: [github.com/omar0boumezough](https://github.com/omar-boumezough?tab=repositories)
 - 📫 Reach me at: **omar0boumezough@gmail.com**
 - ⚡ Fun fact: I love cybersecurity labs, investigations, and gaming 🎮
 
@@ -36,7 +36,7 @@ Contact  : omar0boumezough@gmail.com
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/omar0boumezough">
+  <a href="https://github.com/omar-boumezough">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8"/>
   </a>
   <a href="mailto:omar0boumezough@gmail.com">
