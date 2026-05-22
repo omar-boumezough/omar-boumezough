@@ -1,21 +1,134 @@
-# Hi 👋, I'm Omar Boumezough
-
-### Aspiring Incident Responder 🚨 focused on SOC, DFIR 🕵️‍♂️, Networking 🌐, Linux 🐧, and hands-on cybersecurity labs 🧪
-
-- 🌱 I'm currently learning **CDSA**
-
-- 📫 How to reach me **omar0boumezough@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://omar-boumezough.github.io/portfolio/](https://omar-boumezough.github.io/portfolio/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/omar-boumezough" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omar-boumezough" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omar-boumezough" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-boumezough" height="30" width="40" /></a>
-<a href="https://instagram.com/bmz__omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bmz__omar" height="30" width="40" /></a>
-<a href="https://youtube.com/madd-dai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madd-dai" height="30" width="40" /></a>
+<!-- ================= BLUE TEAM HERO HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:38bdf8&height=220&section=header&text=OMAR%20BOUMEZOUGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTS%20DAI%20%7C%20Blue%20Team%20Learner%20%7C%20SOC%20%26%20DFIR%20%7C%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=16&descAlignY=58&descAlign=50" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<!-- ================= ANIMATED TYPING ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=BTS+DAI+Student+%F0%9F%8E%93;Blue+Team+%26+SOC+Learner+%F0%9F%9B%A1%EF%B8%8F;Digital+Forensics+%26+Incident+Response+%F0%9F%94%8D;Linux+%7C+Networking+%7C+Windows+Logs+%F0%9F%92%BB;Building+Cybersecurity+Labs+%F0%9F%A7%AA;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" />
+</p>
 
+---
+
+## ⚡ About Me
+
+```yaml
+Name     : Omar Boumezough
+Role     : BTS DAI Student · Blue Team Learner
+Location : Morocco 🇲🇦
+Focus    : SOC Analysis · DFIR · Incident Response
+Learning : Networking · Linux · Windows Logs · Python
+Building : Cybersecurity Labs & GitHub Projects
+Goal     : Become a Professional Incident Responder
+Contact  : omar0boumezough@gmail.com
+```
+
+- 🔭 Currently working on: **SOC / DFIR Labs & Cybersecurity Projects**
+- 🛡️ Interested in: **Blue Team, Threat Detection, Incident Response, and Digital Forensics**
+- 📚 Currently learning: **Networking, Linux, Windows Event Logs, Python, and Security Monitoring**
+- 🧪 Practicing on: **TryHackMe, Hack The Box, and CyberDefenders**
+- 👨‍💻 All my projects: [github.com/omar0boumezough](https://github.com/omar0boumezough?tab=repositories)
+- 📫 Reach me at: **omar0boumezough@gmail.com**
+- ⚡ Fun fact: I love cybersecurity labs, investigations, and gaming 🎮
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/omar0boumezough">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+  </a>
+  <a href="mailto:omar0boumezough@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,python,mysql,git,linux,bash,powershell,vscode&theme=dark" />
+</p>
+
+---
+
+## 🛡️ Blue Team Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Analysis-020617?style=for-the-badge&logo=securityscorecard&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-020617?style=for-the-badge&logo=elastic&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-020617?style=for-the-badge&logo=protondrive&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-020617?style=for-the-badge&logo=hackthebox&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Windows%20Logs-020617?style=for-the-badge&logo=windows&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Wireshark-020617?style=for-the-badge&logo=wireshark&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-020617?style=for-the-badge&logo=mitre&logoColor=38bdf8"/>
+</p>
+
+---
+
+## 🧪 Practice Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-020617?style=for-the-badge&logo=tryhackme&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-020617?style=for-the-badge&logo=hackthebox&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/CyberDefenders-020617?style=for-the-badge&logo=icloud&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/CTF%20Labs-020617?style=for-the-badge&logo=target&logoColor=38bdf8"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar0boumezough&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0boumezough&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omar0boumezough&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omar0boumezough&theme=matrix&no-frame=true&column=6&margin-w=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+</p>
+
+---
+
+## 🔎 Current Learning Path
+
+```yaml
+Blue Team Roadmap:
+  - Networking Fundamentals
+  - Linux Administration
+  - Windows Event Logs
+  - PowerShell Basics
+  - Wireshark Traffic Analysis
+  - SOC Alert Triage
+  - MITRE ATT&CK Mapping
+  - Digital Forensics Basics
+  - Incident Response Reporting
+```
+
+---
+
+## 📌 Featured Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Log%20Analysis-020617?style=for-the-badge&logo=files&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Network%20Traffic%20Analysis-020617?style=for-the-badge&logo=wireshark&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Malware%20Analysis%20Basics-020617?style=for-the-badge&logo=virustotal&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Alert%20Triage-020617?style=for-the-badge&logo=elasticstack&logoColor=38bdf8"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f172a,100:020617&height=100&section=footer"/>
+</p>
