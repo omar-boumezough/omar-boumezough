@@ -88,7 +88,7 @@ Contact  : omar0boumezough@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omar0boumezough&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" />
+  <img src="[https://streak-stats.demolab.com?user=omar0boumezough&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" />
 </p>
 
 ---
