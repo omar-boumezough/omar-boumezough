@@ -1,6 +1,6 @@
 <!-- ================= BLUE TEAM HERO HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:38bdf8&height=220&section=header&text=OMAR%20BOUMEZOUGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTS%20DAI%20%7C%20Blue%20Team%20Learner%20%7C%20SOC%20%26%20DFIR%20%7C%20Morocco&descSize=16&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:38bdf8&height=220&section=header&text=OMAR%20BOUMEZOUGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTS%20DAI%20%7C%20Blue%20Team%20Learner%20%7C%20SOC%20and%20DFIR%20%7C%20Morocco&descSize=16&descAlignY=58&descAlign=50" />
 </p>
 
 <!-- ================= ANIMATED TYPING ================= -->
