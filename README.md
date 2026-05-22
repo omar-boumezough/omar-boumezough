@@ -82,14 +82,6 @@ Contact  : omar0boumezough@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar0boumezough&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0boumezough&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=omar-boumezough&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" />
 </p>
 
