@@ -31,7 +31,7 @@ Aspiring Incident Responder | SOC & DFIR Learner | Networking & Linux Enthusiast
 ## 🛡️ Cybersecurity Focus
 
 ```text
-SOC Analysis        ████████░░
+SOC Analysis       ████████░░
 DFIR               ███████░░░
 Networking         ████████░░
 Linux              ███████░░░
