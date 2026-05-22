@@ -1,39 +1,22 @@
 <h1 align="center">Hi 👋, I'm Omar Boumezough</h1>
+<h3 align="center">Aspiring Incident Responder 🚨 focused on SOC, DFIR 🕵️‍♂️, Networking 🌐, Linux 🐧, and hands-on cybersecurity labs 🧪</h3>
 
-<h3 align="center">
-Aspiring Incident Responder | SOC & DFIR Learner | Networking & Linux Enthusiast
-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-boumezough" alt="omar-boumezough" /></a> </p>
 
-<p align="center">
-  <a href="mailto:omar0boumezough@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://omar-boumezough.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+- 🌱 I’m currently learning **CDSA**
+
+- 👨‍💻 All of my projects are available at [https://omar-boumezough.github.io/portfolio/](https://omar-boumezough.github.io/portfolio/)
+
+- 📫 How to reach me **omar0boumezough@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-boumezough" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-boumezough" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bmz__omar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bmz__omar/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@madd-dai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@madd-dai" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 👨‍💻 About Me
-
-- 🎯 I’m focused on **SOC, DFIR, Incident Response, and Cybersecurity Labs**
-- 📚 Currently learning **CDSA / SOC Analysis / Windows Event Logs**
-- 🧪 I enjoy working on **Blue Team labs, Wireshark, Linux, and detection engineering**
-- 🌐 Portfolio: [omar-boumezough.github.io/portfolio](https://omar-boumezough.github.io/portfolio/)
-- 📫 Contact: **omar0boumezough@gmail.com**
-
----
-
-## 🛡️ Cybersecurity Focus
-
-```text
-SOC Analysis       ████████░░
-DFIR               ███████░░░
-Networking         ████████░░
-Linux              ███████░░░
-Wireshark          ██████░░░░
-Windows Logs       ██████░░░░
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-boumezough&show_icons=true&locale=en&layout=compact" alt="omar-boumezough" /></p>
