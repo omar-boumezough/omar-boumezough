@@ -87,14 +87,6 @@ Contact  : omar0boumezough@gmail.com
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar0boumezough&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</p>
-
----
-
 ## 🔎 Current Learning Path
 
 ```yaml
