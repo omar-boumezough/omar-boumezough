@@ -1,11 +1,11 @@
 <!-- ================= BLUE TEAM HERO HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:38bdf8&height=220&section=header&text=OMAR%20BOUMEZOUGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTS%20DAI%20%7C%20Blue%20Team%20Learner%20%7C%20SOC%20%26%20DFIR%20%7C%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=16&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:38bdf8&height=220&section=header&text=OMAR%20BOUMEZOUGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTS%20DAI%20%7C%20Blue%20Team%20Learner%20%7C%20SOC%20%26%20DFIR%20%7C%20Morocco&descSize=16&descAlignY=58&descAlign=50" />
 </p>
 
 <!-- ================= ANIMATED TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=BTS+DAI+Student+%F0%9F%8E%93;Blue+Team+%26+SOC+Learner+%F0%9F%9B%A1%EF%B8%8F;Digital+Forensics+%26+Incident+Response+%F0%9F%94%8D;Linux+%7C+Networking+%7C+Windows+Logs+%F0%9F%92%BB;Building+Cybersecurity+Labs+%F0%9F%A7%AA;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=BTS+DAI+Student;Blue+Team+%26+SOC+Learner;Digital+Forensics+%26+Incident+Response;Linux+%7C+Networking+%7C+Windows+Logs;Building+Cybersecurity+Labs;From+Morocco" />
 </p>
 
 ---
@@ -57,13 +57,13 @@ Contact  : omar0boumezough@gmail.com
 ## 🛡️ Blue Team Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analysis-020617?style=for-the-badge&logo=securityscorecard&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Incident%20Response-020617?style=for-the-badge&logo=elastic&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Digital%20Forensics-020617?style=for-the-badge&logo=protondrive&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Threat%20Hunting-020617?style=for-the-badge&logo=hackthebox&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/SOC%20Analysis-020617?style=for-the-badge&logo=elastic&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-020617?style=for-the-badge&logo=hackthebox&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-020617?style=for-the-badge&logo=virustotal&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-020617?style=for-the-badge&logo=target&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Windows%20Logs-020617?style=for-the-badge&logo=windows&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Wireshark-020617?style=for-the-badge&logo=wireshark&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-020617?style=for-the-badge&logo=mitre&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-020617?style=for-the-badge&logo=attackiq&logoColor=38bdf8"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Contact  : omar0boumezough@gmail.com
   <img src="https://img.shields.io/badge/TryHackMe-020617?style=for-the-badge&logo=tryhackme&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Hack%20The%20Box-020617?style=for-the-badge&logo=hackthebox&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/CyberDefenders-020617?style=for-the-badge&logo=icloud&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/CTF%20Labs-020617?style=for-the-badge&logo=target&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/CTF%20Labs-020617?style=for-the-badge&logo=flag&logoColor=38bdf8"/>
 </p>
 
 ---
@@ -82,13 +82,15 @@ Contact  : omar0boumezough@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar0boumezough&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" height="165"/>
-  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=omar0boumezough&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0boumezough&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=omar0boumezough&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" />
+  <img src="https://streak-stats.demolab.com?user=omar0boumezough&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" />
 </p>
 
 ---
@@ -96,7 +98,7 @@ Contact  : omar0boumezough@gmail.com
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar0boumezough&theme=matrix&no-frame=true&column=6&margin-w=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omar0boumezough&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
 </p>
 
 ---
@@ -121,14 +123,14 @@ Blue Team Roadmap:
 ## 📌 Featured Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Log%20Analysis-020617?style=for-the-badge&logo=files&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Log%20Analysis-020617?style=for-the-badge&logo=windows&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Network%20Traffic%20Analysis-020617?style=for-the-badge&logo=wireshark&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Malware%20Analysis%20Basics-020617?style=for-the-badge&logo=virustotal&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Alert%20Triage-020617?style=for-the-badge&logo=elasticstack&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Alert%20Triage-020617?style=for-the-badge&logo=elastic&logoColor=38bdf8"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f172a,100:020617&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:020617&height=100&section=footer"/>
 </p>
